@@ -6,6 +6,6 @@
 //
 
 struct Constants {
-    static let distributionDomainName = "https://d328da4i6b8le0.cloudfront.net"
+    static let distributionDomainName = "https://d37tghjo9jkp9g.cloudfront.net"
     static let streamMetadataFileName = "recording-started-latest.json"
 }
